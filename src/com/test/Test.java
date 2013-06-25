@@ -2,7 +2,7 @@ package com.test;
 
 public class Test {
 	
-	private static int a;
+	private static int e;
 	private static int b;
 	private static int d;
 	private static int w;
