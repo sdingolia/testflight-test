@@ -4,7 +4,7 @@ public class Test {
 	
 	private static int e;
 	private static int b;
-	private static int d;
+	private static int q;
 	private static int w;
 	
 	
